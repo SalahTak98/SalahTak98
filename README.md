@@ -3,6 +3,6 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
-  - [Creating a live SOC/Honeynet](https://github.com/SalahTak98/Azure-SOC
+  - [Creating a live SOC/Honeynet](https://github.com/SalahTak98/Azure-SOC)
 
 
